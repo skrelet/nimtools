@@ -6,9 +6,7 @@
 <br>
   
 <p align="center">
-  <img src="https://i.imgur.com/HgLo1xT.png">
-  <img src="https://i.imgur.com/Lrt8G0O.png">
-  <img src="https://i.imgur.com/UWlAG68.png">
+  <img src="https://badge.ttsalpha.com/api?icon=mysql&label=MySQL&labelColor=#d1d1d1&iconColor=#fff">
   <img src="https://img.shields.io/docker/v/slatedocs/slate?sort=semver">
 </p>
 
@@ -24,7 +22,7 @@ Test Title Placeholder
 
 * Placeholder
 
-<img src="https://badge.ttsalpha.com/api?icon=mysql&label=MySQL&labelColor=#d1d1d1&iconColor=#fff" alt="MySQL"/>
+
 
 
 
