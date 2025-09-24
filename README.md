@@ -1,11 +1,14 @@
 <p align="center">
   <img src="https://i.imgur.com/vZaCl0Z.png" width="50">
   
-  <br>
-  <br>
+<br>
+<br>
   
-  <a href="https://hub.docker.com/r/slatedocs/slate">
-    <img src="https://img.shields.io/docker/v/slatedocs/slate?sort=semver" alt="Docker Version" /></a>
+<p align="center">
+    <img src="https://img.shields.io/docker/v/slatedocs/slate?sort=semver">
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </p>
 
 <p align="center">
