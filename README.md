@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">Nimtools Knowledge Base></p>
+<p align="center"> Nimtools Knowledge Base </p>
 
 <p align="center">
   <img src="https://i.imgur.com/EBSeQGz.png" width=450>
