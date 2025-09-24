@@ -24,7 +24,7 @@ Test Title Placeholder
 
 * Placeholder
 
-
+<img src="https://badge.ttsalpha.com/api?icon=mysql&label=MySQL&labelColor=#222&iconColor=#fff" alt="MySQL"/>
 
 
 
