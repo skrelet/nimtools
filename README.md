@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/vZaCl0Z.png" width="55">
+  <img src="https://i.imgur.com/vZaCl0Z.png" width="50">
   
   <br>
   <br>
@@ -12,7 +12,7 @@
 <p align="center">Nimtools Knowledge Base></p>
 
 <p align="center">
-  <img src="https://i.imgur.com/EBSeQGz.png" width=400>
+  <img src="https://i.imgur.com/EBSeQGz.png" width=450>
 </p>
 
 
