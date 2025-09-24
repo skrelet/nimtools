@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/vZaCl0Z.png" width="300">
+  <img src="https://i.imgur.com/vZaCl0Z.png" width="95">
   <br>
   
   <a href="https://hub.docker.com/r/slatedocs/slate">
